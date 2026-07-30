@@ -14,7 +14,7 @@ import ClickDemo from "./components/EventHandling";
 import FormDemo from "./components/EventHandlingTwo";
 import ActionButtons from "./components/EventHandlingThree";
 
-const name = "Amay";
+const name = "User";
 const isLoggedIn = false;
 
 function App() {
