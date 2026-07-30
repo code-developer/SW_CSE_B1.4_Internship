@@ -19,7 +19,7 @@ function ActionButtons({ onGreet, onShowInfo }) {
 // Parent component that defines the logic and passes it down
 function ActionButtonsDemo() {
   function handleGreet() {
-    alert("Hello from parent!");
+    alert("Hello from Jayant!");
   }
 
   function handleShowInfo() {
