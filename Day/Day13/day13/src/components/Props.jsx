@@ -21,9 +21,9 @@ function ProfileList() {
         <div className="list">
             <h3>Team members</h3>
             {/* Each child component gets different data via props */}
-            <ProfileCard name="Rakesh" role="Fullstack developer"/>
-            <ProfileCard name="Sanjeev" role="Frontend developer"/>
-            <ProfileCard name="Jeslene" role="Backend developer"/>
+            <ProfileCard name="Jayant" role="Fullstack developer"/>
+            <ProfileCard name="Lhouvi" role="Frontend developer"/>
+            <ProfileCard name="Bhannu" role="Backend developer"/>
 
         </div>
     );
