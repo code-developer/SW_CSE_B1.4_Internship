@@ -28,7 +28,7 @@ function App() {
       {/* <ValidatedForm/> */}
       {/* <GitHubUsersList/> */}
       {/* <GitHubProfile/> */}
-      <GitHubRepoCount username="rakeshdotkr" />
+      <GitHubRepoCount username="code-developer" />
     </>
   )
 }
