@@ -5,9 +5,9 @@ import SkillCard from '../components/SkillCard/SkillCard';
 
 const SKILLS = [
   { name: 'HTML', level: 'Beginner', icon: '🌐' },
-  { name: 'CSS', level: 'Beginner', icon: '🎨' },
-  { name: 'JavaScript', level: 'Beginner', icon: '⚡' },
-  { name: 'React', level: 'Beginner', icon: '⚛️' }
+  { name: 'Python', level: 'Intermediate', icon: '🎨' },
+  { name: 'C', level: 'Intermediate', icon: '⚡' },
+  { name: 'MS Office', level: 'Intermediate', icon: '⚛️' }
 ];
 
 function About() {
